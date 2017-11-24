@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Gegner
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Gegner\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=bild
+comment1.target=Gegner(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ bewegen()
+numComments=4
